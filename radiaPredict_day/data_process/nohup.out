@@ -1,0 +1,4 @@
+Collecting numpy
+  Downloading numpy-1.13.3-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl (4.6MB)
+Installing collected packages: numpy
+Successfully installed numpy-1.13.3

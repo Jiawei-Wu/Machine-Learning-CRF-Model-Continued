@@ -1,0 +1,38 @@
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+reading training data: 
+Done!0.00 s
+
+Number of sentences: 1
+Number of features:  19775
+Number of thread(s): 4
+Freq:                1
+eta:                 0.00010
+C:                   4.00000
+shrinking size:      20
+iter=0 terr=0.98333 serr=1.00000 act=19775 obj=426.64177 diff=1.00000
+iter=1 terr=0.40833 serr=1.00000 act=19775 obj=386.54158 diff=0.09399
+iter=2 terr=0.41667 serr=1.00000 act=19775 obj=233.17514 diff=0.39677
+iter=3 terr=0.38333 serr=1.00000 act=19775 obj=514.42529 diff=1.20618
+iter=4 terr=0.40833 serr=1.00000 act=19775 obj=122.68512 diff=0.76151
+iter=5 terr=0.00000 serr=0.00000 act=19775 obj=77.76064 diff=0.36618
+iter=6 terr=0.00000 serr=0.00000 act=19775 obj=62.35067 diff=0.19817
+iter=7 terr=0.69167 serr=1.00000 act=19775 obj=198.59245 diff=2.18509
+iter=8 terr=0.00000 serr=0.00000 act=19775 obj=48.36836 diff=0.75644
+iter=9 terr=0.35833 serr=1.00000 act=19775 obj=102.35827 diff=1.11622
+iter=10 terr=0.00000 serr=0.00000 act=19775 obj=42.86419 diff=0.58123
+iter=11 terr=0.00000 serr=0.00000 act=19775 obj=50.19317 diff=0.17098
+iter=12 terr=0.00000 serr=0.00000 act=19775 obj=40.84056 diff=0.18633
+iter=13 terr=0.00000 serr=0.00000 act=19775 obj=40.67169 diff=0.00413
+iter=14 terr=0.00000 serr=0.00000 act=19775 obj=40.51461 diff=0.00386
+iter=15 terr=0.00000 serr=0.00000 act=19775 obj=40.38478 diff=0.00320
+iter=16 terr=0.00000 serr=0.00000 act=19775 obj=40.33471 diff=0.00124
+iter=17 terr=0.00000 serr=0.00000 act=19775 obj=40.29469 diff=0.00099
+iter=18 terr=0.00000 serr=0.00000 act=19775 obj=40.28954 diff=0.00013
+iter=19 terr=0.00000 serr=0.00000 act=19775 obj=40.28566 diff=0.00010
+iter=20 terr=0.00000 serr=0.00000 act=19775 obj=40.28390 diff=0.00004
+iter=21 terr=0.00000 serr=0.00000 act=19775 obj=40.28364 diff=0.00001
+
+Done!0.48 s
+
